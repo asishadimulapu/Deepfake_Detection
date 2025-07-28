@@ -1,0 +1,21 @@
+# Train models
+python deepfake_detection/image_detect.py --mode train
+python deepfake_detection/audio_detect.py --mode train
+
+# Process videos
+python deepfake_detection/video_detect.py
+
+# Test detection
+python deepfake_detection/image_detect.py --mode predict --image "image.jpg"
+python deepfake_detection/audio_detect.py --mode predict --audio "audio.flac"
+
+
+# Test multimodal fusion with sample data
+
+python test_multimodal.py
+
+# Test with custom files
+python test_multimodal.py --image "your_image.jpg" --audio "your_audio.flac"
+
+# Use multimodal fusion directly
+python deepfake_detection/multimodal_fusion.py --image "image.jpg" --audio "audio.flac"
