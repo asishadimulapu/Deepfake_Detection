@@ -23,7 +23,6 @@ Deepfake_agent/
 ├── test_multimodal.py # Script to test the multimodal system
 └── README.md # Project documentation
 
-bash
 Copy
 Edit
 
