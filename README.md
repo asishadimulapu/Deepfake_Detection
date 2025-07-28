@@ -32,7 +32,7 @@ Edit
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Deepfake_Detection.git
+git clone https://github.com/asishadimulapu/Deepfake_Detection.git
 cd Deepfake_Detection
 Install dependencies:
 
@@ -40,7 +40,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-Make sure you’re using Python 3.8+ and have ffmpeg, opencv, and librosa installed.
+Make sure you’re using Python 3.8+ and have  opencv, and librosa installed.
 
 🔍 Usage
 🎧 Audio Detection
