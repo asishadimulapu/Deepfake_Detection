@@ -10,7 +10,7 @@ A comprehensive deepfake detection system that can analyze audio, video, and ima
 - **🔗 Multimodal Fusion**: Combine audio, video, and image detectors for higher accuracy and robustness.
 
 ## 📁 Project Structure
-
+```bash
 Deepfake_agent/
 ├── deepfake_detection/
 │ ├── audio_detect.py # Audio deepfake detection
@@ -22,7 +22,7 @@ Deepfake_agent/
 ├── processed_data/ # Preprocessed data (not tracked in Git)
 ├── test_multimodal.py # Script to test the multimodal system
 └── README.md # Project documentation
-
+bash
 Copy
 Edit
 
