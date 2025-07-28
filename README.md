@@ -7,9 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build Status"></a>
 </p>
 
 A comprehensive, multimodal deepfake detection system designed to analyze and identify synthetic media across audio, video, and image formats. This project leverages state-of-the-art deep learning models to provide robust and accurate detection capabilities.
